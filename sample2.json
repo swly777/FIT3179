@@ -1,0 +1,13 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": { "text": "Drivers with Most Podiums" },
+    "data": {
+        "url": "F1_2022_data.csv"
+    },
+    "mark": "bar",
+    "encoding": {
+    "x": { "field": "Podiums", "type": "quantitative" },
+    "y": { "field": "Driver Name", "type": "nominal" }
+    }
+    }
+
