@@ -12,9 +12,9 @@ vegaEmbed("#bar_chart", vg_2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 
-var vg_2 = "map.json";
+var vg_3 = "map.json";
 
-vegaEmbed("#map", vg_2).then(function(result) {
+vegaEmbed("#map", vg_3).then(function(result) {
 
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
