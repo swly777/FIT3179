@@ -1,4 +1,4 @@
-"raceId","year","round","circuitId","name","date","time","url","fp1_date","fp1_time","fp2_date","fp2_time","fp3_date","fp3_time","quali_date","quali_time","sprint_date","sprint_time","slowest","fastest"
+"raceId","year","round","circuitId","name","date","time","url","fp1_date","fp1_time","fp2_date","fp2_time","fp3_date","fp3_time","quali_date","quali_time","sprint_date","sprint_time","fastest","slowest"
 1,2009,1,1,"Australian Grand Prix","2009-03-29","06:00:00","http://en.wikipedia.org/wiki/2009_Australian_Grand_Prix","\N","\N","\N","\N","\N","\N","\N","\N","\N","\N",87.706,185.713
 2,2009,2,2,"Malaysian Grand Prix","2009-04-05","09:00:00","http://en.wikipedia.org/wiki/2009_Malaysian_Grand_Prix","\N","\N","\N","\N","\N","\N","\N","\N","\N","\N",96.641,178.64
 18,2008,1,1,"Australian Grand Prix","2008-03-16","04:30:00","http://en.wikipedia.org/wiki/2008_Australian_Grand_Prix","\N","\N","\N","\N","\N","\N","\N","\N","\N","\N",87.418,209.104
