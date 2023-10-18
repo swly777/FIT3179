@@ -1,0 +1,106 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 1000,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/lap_times_summarised.csv"
+  },
+  "params": [
+    {
+      "name": "Circuit_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Albert Park Grand Prix Circuit",
+          "Sepang International Circuit"
+        ],
+        "labels": [
+          "Show All",
+          "Albert Park Grand Prix Circuit",
+          "Sepang International Circuit"
+        ],
+        "name": "Circuit_selection: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "Circuit_selection == null || datum['circuit'] == Circuit_selection"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "year",
+      "type": "ordinal",
+      "title": "Date"
+    },
+    "y": {
+      "field": "fastest",
+      "type": "quantitative",
+      "title": "Lap Times",
+      "axis": {"tickCount": 4}
+    }
+  },
+  "layer": [
+    {
+      "mark": {"type" : "line", "point" : "true"},
+      "encoding": {
+        "color": {
+          "field": "circuit",
+          "type": "nominal",
+          "title": "Circuit",
+          "legend": {"symbolType": "stroke", "symbolSize": 50}
+        }
+      }
+    },
+    {
+      "mark": "point",
+      "selection": {
+        "hover": {
+          "type": "single",
+          "on": "mouseover",
+          "nearest": true,
+          "empty": "none",
+          "fields": ["year", "fastest"],
+          "clear": "mouseout"
+        }
+      },
+      "encoding": {
+        "x": {"field": "year", "type": "ordinal"},
+        "y": {"field": "fastest", "type": "quantitative"},    
+        "color": {"field": "circuit", "type": "nominal"},
+        "opacity": {
+          "condition": {"selection": "hover", "value": 1},
+          "value": 0
+        },
+        "tooltip": [
+          {"field": "year", "type": "ordinal"},
+          {"field": "fastest", "type": "quantitative"},
+          {"field": "circuit", "type": "nominal"}
+        ]
+      }
+    },
+    {
+      "mark": "rule",
+      "encoding": {"x": {"datum": "2023"}, "color": {"value": "grey"}}
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "bottom",
+        "dy": 150,
+        "dx": -10,
+        "fontSize": 13,
+        "fontWeight": "lighter",
+        "color": "black"
+      },
+      "encoding": {
+        "x": {"datum": "2023"},
+        "y": {"value": 100},
+        "text": {"value": "TBA"}
+      }
+    }
+  ]
+}
