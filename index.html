@@ -56,12 +56,26 @@
       </div>
       <!-- end pure grid group -->
 
+      <!-- pure grid group -->
+      <div class="pure-g">
+        <div class="pure-u-1-2">
+          <div class="description description-right">
+            <h2>Two Columns Layout</h2>
+            <p>The first column contains text and the second column contains a visualisation. </p>
+          </div>
+        </div>
+        <div class="pure-u-1-2">
+          <div id="vis2" class="vis-container"></div>
+        </div>
+      </div>
+      <!-- end pure grid group -->
+
   </div> <!-- end page -->
 
       <!-- Javascript -->
       <script type="text/javascript">
         var specVis1 = "./choropleth-map.json";
-        var specVis2 = "./bubble-chart.json";
+        var specVis2 = "./line-chart.json";
         
         vegaEmbed('#vis1', specVis1, { "actions": false });
     
