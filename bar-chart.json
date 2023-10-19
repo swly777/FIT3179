@@ -16,8 +16,7 @@
     "mark": {
       "type": "text",
       "align": "left",
-      "baseline": "middle",
-      "dx": 3
+      "baseline": "middle"
     },
     "encoding": {
       "text": {"field": "year", "type": "quantitative"}
