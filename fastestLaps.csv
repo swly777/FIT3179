@@ -1,11 +1,11 @@
-"name","fastest_lap_time"
-"Australian Grand Prix",80.235
-"Bahrain Grand Prix",90.252
-"Canadian Grand Prix",73.078
-"French Grand Prix",75.045
-"German Grand Prix",73.78
-"Malaysian Grand Prix",94.08
-"Monaco Grand Prix",72.909
-"Sakhir Grand Prix",55.404
-"Spanish Grand Prix",75.641
-"Turkish Grand Prix",84.77
+"name","fastest_lap_time","year"
+"Australian Grand Prix",80.235,2023
+"Bahrain Grand Prix",90.252,2004
+"Canadian Grand Prix",73.078,2019
+"French Grand Prix",75.045,2002
+"German Grand Prix",73.78,2004
+"Malaysian Grand Prix",94.08,2017
+"Monaco Grand Prix",72.909,2021
+"Sakhir Grand Prix",55.404,2020
+"Spanish Grand Prix",75.641,2005
+"Turkish Grand Prix",84.77,2005
