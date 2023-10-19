@@ -37,7 +37,7 @@
         <div class="pure-u-1-1">
           <h1>Formula One (1950 - 2023)</h1>
           <p>Formula One (F1) is one of the world's most prestigious racing competitions. Races take place in multiple locations around the world with millions of viewers and various sponsors participating. Each team 
-          engineers their own F1 car in which their drivers race around a circuit. </p>
+          engineers their own F1 car in which their drivers race around a circuit. Lets see how the fastest lap times differ between different circuits and where do they tend to be hosted? </p>
         </div>
       </div>
       <!-- end pure grid group -->
@@ -64,18 +64,35 @@
       </div>
       <!-- end pure grid group -->
         <br>
+
+      <h2> Fastest Lap Times </h2>
+      <!-- pure grid group -->
+      <div class="pure-g">
+        <div class="pure-u-1-2">
+          <div id="vis2" class="vis-container"></div>
+        </div>
+      </div>
+      <!-- end pure grid group -->
+        <br>
         
 
   </div> <!-- end page -->
 
+
+    
       <!-- Javascript -->
       <script type="text/javascript">
         var specVis1 = "./choropleth-map.json";
         var specVis2 = "./line-chart.json";
+        var specVis3 = "./bar-chart.json;
         
         vegaEmbed('#vis1', specVis1, { "actions": false });
     
         vegaEmbed('#vis2', specVis2, { "actions": false }).then(function (result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+          
+        vegaEmbed('#vis3', specVis3, { "actions": false }).then(function (result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
       </script>
