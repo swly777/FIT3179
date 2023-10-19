@@ -1,6 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "Bar chart with text labels. Set domain to make the frame cover the labels.",
+  "title": "Fastest Circuits",
+  "width": 600,
+  "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/fastestLaps.csv"
   },
