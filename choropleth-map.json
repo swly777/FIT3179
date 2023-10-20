@@ -12,7 +12,7 @@
     {
       "transform": [
         {
-          "calculate": "'No Circuits In ' + datum.properties.NAME",
+          "calculate": "'No circuits in ' + datum.properties.NAME",
           "as": "note"
         }
       ],
@@ -57,7 +57,7 @@
           "type": "quantitative",
           "scale": {
             "type": "threshold",
-            "domain": [1, 2, 3, 4],
+            "domain": [10, 20, 30, 40],
             "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603"]
           }
         },
