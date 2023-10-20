@@ -7,8 +7,8 @@
     "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/fastestLaps.csv"
   },
   "encoding": {
-    "y": {"field": "name", "type": "nominal"},
-    "x": {"field": "fastest_lap_time", "type": "quantitative", "scale": {"domain": [0, 100]}, "sort": "ascending"}
+    "y": {"field": "name", "type": "nominal", "sort": "-x"},
+    "x": {"field": "fastest_lap_time", "type": "quantitative", "scale": {"domain": [0, 100]}}
   },
   "layer": [{
     "mark": "bar"
