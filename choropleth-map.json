@@ -39,14 +39,14 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/circuit_country.csv"
+              "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/circuit_counts.csv"
             },
-            "key": "Country",
-            "fields": ["Count"]
+            "key": "country",
+            "fields": ["count"]
           }
         },
         {
-          "calculate": "datum.Count",
+          "calculate": "datum.count",
           "as": "Number of Circuits"
         }
       ],
