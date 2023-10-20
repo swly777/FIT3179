@@ -1,4 +1,4 @@
-"circuitId","count","name.x","circuitRef","name.y","location","country","lat","lng","alt","url"
+"circuitId","count","name.x","circuitRef","name.y","location","country","latitude","longitude","alt","url"
 "1",26,"Australian Grand Prix","albert_park","Albert Park Grand Prix Circuit","Melbourne","Australia",-37.8497,144.968,"10","http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit"
 "10",37,"German Grand Prix","hockenheimring","Hockenheimring","Hockenheim","Germany",49.3278,8.56583,"103","http://en.wikipedia.org/wiki/Hockenheimring"
 "11",38,"Hungarian Grand Prix","hungaroring","Hungaroring","Budapest","Hungary",47.5789,19.2486,"264","http://en.wikipedia.org/wiki/Hungaroring"
