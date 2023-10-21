@@ -1,11 +1,10 @@
-"raceId","year","circuitId","country","fastest_time"
+"raceId","Year","circuitId","Country","Fastest Time"
 209,1997,25,"Argentina",87.981
 1100,2023,1,"Australia",80.235
 1046,2020,3,"Bahrain",55.404
 1016,2019,7,"Canada",73.078
 101,2004,10,"Germany",73.78
 983,2017,2,"Malaysia",94.08
-1051,2021,78,"Qatar",83.196
 1025,2019,71,"Russia",95.761
 100,2004,9,"UK",78.739
 98,2004,19,"USA",70.399
