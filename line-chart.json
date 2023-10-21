@@ -13,7 +13,7 @@
   "selection": {
     "countryFilter": {
       "type": "multi",
-      "fields": ["country"],
+      "fields": ["Country"],
       "title": "Country Filter: ",
       "bind": {
         "input": "select",
@@ -43,10 +43,10 @@
   },
   "mark": {"type": "line", "point": true},
   "encoding": {
-    "x": {"field": "year", "type": "ordinal"},
-    "y": {"field": "fastest_time", "type": "quantitative", "axis": {"tickCount": 15}, "scale": {"domain": [0, 200]}}, 
+    "x": {"field": "Year", "type": "ordinal"},
+    "y": {"field": "Fastest Time", "type": "quantitative", "axis": {"tickCount": 15}, "scale": {"domain": [0, 200]}}, 
     "color": {
-      "field": "country",
+      "field": "Country",
       "type": "nominal",
       "scale": {
         "domain": [
@@ -68,13 +68,13 @@
         ]
       },
       "legend" : {
-        "orient": "top-left"
+        "orient": "top-right"
       }
     },
     "tooltip": [
-      {"field": "country", "type": "nominal"},
-      {"field": "year", "type": "ordinal"},
-      {"field": "fastest_time", "type": "quantitative"}
+      {"field": "Country", "type": "nominal"},
+      {"field": "Year", "type": "ordinal"},
+      {"field": "Fastest Time", "type": "quantitative"}
     ],
     "opacity": {
       "condition": {"selection": "countryFilter", "value": 1},
