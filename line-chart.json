@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 600,
+  "width": 550,
   "height": 500,
   "data": {
     "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/line-chart.csv"
