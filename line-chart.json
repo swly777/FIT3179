@@ -39,7 +39,7 @@
   "mark": {"type": "line", "point": true},
   "encoding": {
     "x": {"field": "year", "type": "ordinal"},
-    "y": {"field": "fastest_time", "type": "quantitative", "axis": {"tickCount": 3},"scale": {"domain": [0, 150]}}, 
+    "y": {"field": "fastest_time", "type": "quantitative", "axis": {"tickCount": 15},"scale": {"domain": [0, 200]}}, 
     "color": {
       "field": "country",
       "type": "nominal",
