@@ -36,7 +36,7 @@
       "title": "Date"
     },
     "y": {
-      "field": "fastest",
+      "field": "fastest_time",
       "type": "quantitative",
       "title": "Lap Times",
       "axis": {"tickCount": 4}
@@ -47,7 +47,7 @@
       "mark": {"type" : "line", "point" : "true"},
       "encoding": {
         "color": {
-          "field": "circuit",
+          "field": "name",
           "type": "nominal",
           "title": "Circuit",
           "legend": {"symbolType": "stroke", "symbolSize": 50}
@@ -62,14 +62,14 @@
           "on": "mouseover",
           "nearest": true,
           "empty": "none",
-          "fields": ["year", "fastest"],
+          "fields": ["year", "fastest_time"],
           "clear": "mouseout"
         }
       },
       "encoding": {
         "x": {"field": "year", "type": "ordinal"},
-        "y": {"field": "fastest", "type": "quantitative"},    
-        "color": {"field": "circuit", "type": "nominal"},
+        "y": {"field": "fastest_time", "type": "quantitative"},    
+        "color": {"field": "name", "type": "nominal"},
         "opacity": {
           "condition": {"selection": "hover", "value": 1},
           "value": 0
@@ -77,7 +77,7 @@
         "tooltip": [
           {"field": "year", "type": "ordinal"},
           {"field": "fastest", "type": "quantitative"},
-          {"field": "circuit", "type": "nominal"}
+          {"field": "name", "type": "nominal"}
         ]
       }
     },
