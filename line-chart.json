@@ -1,5 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Fastest Lap Time Trends",
+    "anchor": "middle,
+    "fontSize": "18"
+  },
   "width": 500,
   "height": 500,
   "data": {
