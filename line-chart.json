@@ -12,21 +12,21 @@
         "input": "select",
         "options": [
           null,
-          "Albert Park Grand Prix Circuit",
-          "Sepang International Circuit"
+          "Australia",
+          "Malaysia"
         ],
         "labels": [
           "Show All",
-          "Albert Park Grand Prix Circuit",
-          "Sepang International Circuit"
+          "Australia",
+          "Malaysia"
         ],
-        "name": "Circuit_selection: "
+        "name": "country_selection: "
       }
     }
   ],
   "transform": [
     {
-      "filter": "Circuit_selection == null || datum['name'] == Circuit_selection"
+      "filter": "country_selection == null || datum['country'] == country_selection"
     }
   ],
   "encoding": {
@@ -47,9 +47,9 @@
       "mark": {"type" : "line", "point" : "true"},
       "encoding": {
         "color": {
-          "field": "name",
+          "field": "country",
           "type": "nominal",
-          "title": "Circuit",
+          "title": "Country",
           "legend": {"symbolType": "stroke", "symbolSize": 50}
         }
       }
@@ -69,7 +69,7 @@
       "encoding": {
         "x": {"field": "year", "type": "ordinal"},
         "y": {"field": "fastest_time", "type": "quantitative"},    
-        "color": {"field": "name", "type": "nominal"},
+        "color": {"field": "country", "type": "nominal"},
         "opacity": {
           "condition": {"selection": "hover", "value": 1},
           "value": 0
@@ -77,7 +77,7 @@
         "tooltip": [
           {"field": "year", "type": "ordinal"},
           {"field": "fastest_time", "type": "quantitative"},
-          {"field": "name", "type": "nominal"}
+          {"field": "country", "type": "nominal"}
         ]
       }
     },
