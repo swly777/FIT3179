@@ -76,7 +76,7 @@
         },
         "tooltip": [
           {"field": "year", "type": "ordinal"},
-          {"field": "fastest", "type": "quantitative"},
+          {"field": "fastest_time", "type": "quantitative"},
           {"field": "name", "type": "nominal"}
         ]
       }
