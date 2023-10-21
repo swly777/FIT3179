@@ -6,8 +6,8 @@
     "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/bar-chart.csv"
   },
   "encoding": {
-    "y": {"field": "country", "type": "nominal"},
-    "x": {"field": "fastest_time", "type": "quantitative", "scale": {"domain": [0, 100]}}
+    "y": {"field": "Country", "type": "nominal", "sort": "-x"},
+    "x": {"field": "Fastest Time", "type": "quantitative", "scale": {"domain": [0, 100]}}
   },
   "layer": [{
     "mark": "bar"
@@ -18,7 +18,7 @@
       "baseline": "middle"
     },
     "encoding": {
-      "text": {"field": "year", "type": "quantitative"}
+      "text": {"field": "Year", "type": "quantitative"}
     }
   }]
 }
