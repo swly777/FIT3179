@@ -7,7 +7,7 @@
   },
   "params": [
     {
-      "name": "Circuit_selection",
+      "name": "country_selection",
       "bind": {
         "input": "select",
         "options": [
