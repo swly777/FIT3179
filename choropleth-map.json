@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
     "text": "F1 Circuit Locations from 1950 - 2023.",
-    "anchor": "start",
-    "fontSize": "14"},
+    "anchor": "middle",
+    "fontSize": "18"},
   "width": 500,
   "height": 400,
   "data": {
