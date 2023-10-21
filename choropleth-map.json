@@ -39,7 +39,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/circuit_counts.csv"
+              "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/choropleth-map.csv"
             },
             "key": "country",
             "fields": ["count"]
