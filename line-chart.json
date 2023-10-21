@@ -33,7 +33,7 @@
     "x": {
       "field": "year",
       "type": "ordinal",
-      "title": "Date"
+      "title": "Year"
     },
     "y": {
       "field": "fastest_time",
