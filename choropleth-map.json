@@ -90,7 +90,8 @@
         "text": {"field": "properties.NAME", "type": "nominal"},
         "opacity": {
           "condition": {
-            "test": "datum['properties.NAME'] == 'China' || datum['properties.NAME'] == 'Brazil' || datum['properties.NAME'] == 'South Africa' || datum['properties.NAME'] == 'Australia' || datum['properties.NAME'] == 'Malaysia' ||  datum['properties.NAME'] == 'Saudi Arabia' ||  datum['properties.NAME'] == 'Russia'",
+            "test": "datum['properties.NAME'] == 'Australia' || datum['properties.NAME'] == 'Malaysia' || 
+            datum['properties.NAME'] == 'USA' || datum['properties.NAME'] == 'UK' || datum['properties.NAME'] == 'China' ||  datum['properties.NAME'] == 'Japan' ||  datum['properties.NAME'] == 'Russia'",
             "value": 1
           },
           "value": 0
