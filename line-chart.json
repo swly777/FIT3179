@@ -66,9 +66,6 @@
           "#dc267f",
           "#fe6100"
         ]
-      },
-      "legend" : {
-        "orient": "top-right"
       }
     },
     "tooltip": [
