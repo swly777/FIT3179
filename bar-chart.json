@@ -4,7 +4,7 @@
   "width": 600,
   "height": 400,
   "data": {
-    "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/fastest_circuits.csv"
+    "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/bar-chart.csv"
   },
   "encoding": {
     "y": {"field": "name", "type": "nominal", "sort": "-x"},
