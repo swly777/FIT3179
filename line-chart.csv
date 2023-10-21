@@ -1,511 +1,511 @@
-"raceId","year","circuitId","name","fastest_time"
-1,2009,1,"Albert Park Grand Prix Circuit",87.706
-55,2006,1,"Albert Park Grand Prix Circuit",86.045
-124,2002,1,"Albert Park Grand Prix Circuit",88.541
-841,2011,1,"Albert Park Grand Prix Circuit",88.947
-18,2008,1,"Albert Park Grand Prix Circuit",87.418
-207,1997,1,"Albert Park Grand Prix Circuit",90.585
-141,2001,1,"Albert Park Grand Prix Circuit",88.214
-948,2016,1,"Albert Park Grand Prix Circuit",88.997
-900,2014,1,"Albert Park Grand Prix Circuit",92.478
-90,2004,1,"Albert Park Grand Prix Circuit",84.125
-158,2000,1,"Albert Park Grand Prix Circuit",91.481
-860,2012,1,"Albert Park Grand Prix Circuit",89.187
-969,2017,1,"Albert Park Grand Prix Circuit",86.538
-175,1999,1,"Albert Park Grand Prix Circuit",92.112
-108,2003,1,"Albert Park Grand Prix Circuit",87.724
-880,2013,1,"Albert Park Grand Prix Circuit",89.274
-191,1998,1,"Albert Park Grand Prix Circuit",91.649
-71,2005,1,"Albert Park Grand Prix Circuit",85.683
-1100,2023,1,"Albert Park Grand Prix Circuit",80.235
-989,2018,1,"Albert Park Grand Prix Circuit",85.945
-1010,2019,1,"Albert Park Grand Prix Circuit",85.58
-224,1996,1,"Albert Park Grand Prix Circuit",93.421
-1076,2022,1,"Albert Park Grand Prix Circuit",80.26
-338,2010,1,"Albert Park Grand Prix Circuit",88.358
-926,2015,1,"Albert Park Grand Prix Circuit",90.945
-36,2007,1,"Albert Park Grand Prix Circuit",85.235
-861,2012,2,"Sepang International Circuit",100.722
-142,2001,2,"Sepang International Circuit",100.962
-125,2002,2,"Sepang International Circuit",98.049
-37,2007,2,"Sepang International Circuit",96.701
-901,2014,2,"Sepang International Circuit",103.066
-881,2013,2,"Sepang International Circuit",99.199
-963,2016,2,"Sepang International Circuit",96.424
-109,2003,2,"Sepang International Circuit",96.412
-54,2006,2,"Sepang International Circuit",94.803
-19,2008,2,"Sepang International Circuit",95.366
-91,2004,2,"Sepang International Circuit",94.223
-842,2011,2,"Sepang International Circuit",100.571
-189,1999,2,"Sepang International Circuit",100.267
-983,2017,2,"Sepang International Circuit",94.08
-2,2009,2,"Sepang International Circuit",96.641
-339,2010,2,"Sepang International Circuit",97.054
-927,2015,2,"Sepang International Circuit",102.062
-72,2005,2,"Sepang International Circuit",95.483
-174,2000,2,"Sepang International Circuit",98.543
-20,2008,3,"Bahrain International Circuit",93.193
-949,2016,3,"Bahrain International Circuit",94.482
-1045,2020,3,"Bahrain International Circuit",92.014
-1046,2020,3,"Bahrain International Circuit",55.404
-4,2009,3,"Bahrain International Circuit",94.556
-1052,2021,3,"Bahrain International Circuit",92.09
-883,2013,3,"Bahrain International Circuit",96.961
-73,2005,3,"Bahrain International Circuit",91.447
-1074,2022,3,"Bahrain International Circuit",94.57
-1098,2023,3,"Bahrain International Circuit",93.996
-929,2015,3,"Bahrain International Circuit",96.311
-902,2014,3,"Bahrain International Circuit",97.02
-53,2006,3,"Bahrain International Circuit",92.408
-863,2012,3,"Bahrain International Circuit",96.379
-337,2010,3,"Bahrain International Circuit",118.287
-92,2004,3,"Bahrain International Circuit",90.252
-990,2018,3,"Bahrain International Circuit",93.74
-971,2017,3,"Bahrain International Circuit",92.798
-1011,2019,3,"Bahrain International Circuit",93.411
-38,2007,3,"Bahrain International Circuit",94.067
-145,2001,4,"Circuit de Barcelona-Catalunya",81.151
-195,1998,4,"Circuit de Barcelona-Catalunya",84.275
-5,2009,4,"Circuit de Barcelona-Catalunya",82.762
-128,2002,4,"Circuit de Barcelona-Catalunya",80.355
-1014,2019,4,"Circuit de Barcelona-Catalunya",78.492
-884,2013,4,"Circuit de Barcelona-Catalunya",86.217
-179,1999,4,"Circuit de Barcelona-Catalunya",84.982
-845,2011,4,"Circuit de Barcelona-Catalunya",86.727
-21,2008,4,"Circuit de Barcelona-Catalunya",81.67
-212,1997,4,"Circuit de Barcelona-Catalunya",82.242
-952,2016,4,"Circuit de Barcelona-Catalunya",86.948
-864,2012,4,"Circuit de Barcelona-Catalunya",86.25
-930,2015,4,"Circuit de Barcelona-Catalunya",88.27
-341,2010,4,"Circuit de Barcelona-Catalunya",84.357
-230,1996,4,"Circuit de Barcelona-Catalunya",105.517
-94,2004,4,"Circuit de Barcelona-Catalunya",77.45
-112,2003,4,"Circuit de Barcelona-Catalunya",80.143
-1055,2021,4,"Circuit de Barcelona-Catalunya",78.149
-58,2006,4,"Circuit de Barcelona-Catalunya",76.648
-973,2017,4,"Circuit de Barcelona-Catalunya",83.593
-993,2018,4,"Circuit de Barcelona-Catalunya",78.441
-1105,2023,4,"Circuit de Barcelona-Catalunya",76.33
-75,2005,4,"Circuit de Barcelona-Catalunya",75.641
-1079,2022,4,"Circuit de Barcelona-Catalunya",84.108
-162,2000,4,"Circuit de Barcelona-Catalunya",84.47
-39,2007,4,"Circuit de Barcelona-Catalunya",82.68
-904,2014,4,"Circuit de Barcelona-Catalunya",88.918
-1036,2020,4,"Circuit de Barcelona-Catalunya",78.183
-1044,2020,5,"Istanbul Park",96.806
-22,2008,5,"Istanbul Park",86.506
-66,2006,5,"Istanbul Park",88.005
-84,2005,5,"Istanbul Park",84.77
-47,2007,5,"Istanbul Park",87.295
-343,2010,5,"Istanbul Park",89.165
-844,2011,5,"Istanbul Park",89.703
-1067,2021,5,"Istanbul Park",90.432
-7,2009,5,"Istanbul Park",87.579
-1104,2023,6,"Circuit de Monaco",75.65
-953,2016,6,"Circuit de Monaco",77.939
-6,2009,6,"Circuit de Monaco",75.154
-211,1997,6,"Circuit de Monaco",113.315
-130,2002,6,"Circuit de Monaco",78.023
-885,2013,6,"Circuit de Monaco",76.577
-95,2004,6,"Circuit de Monaco",74.439
-178,1999,6,"Circuit de Monaco",82.259
-114,2003,6,"Circuit de Monaco",74.545
-76,2005,6,"Circuit de Monaco",75.842
-23,2008,6,"Circuit de Monaco",76.689
-147,2001,6,"Circuit de Monaco",79.424
-164,2000,6,"Circuit de Monaco",81.571
-1080,2022,6,"Circuit de Monaco",74.693
-342,2010,6,"Circuit de Monaco",75.192
-1015,2019,6,"Circuit de Monaco",74.279
-865,2012,6,"Circuit de Monaco",77.296
-846,2011,6,"Circuit de Monaco",76.234
-59,2006,6,"Circuit de Monaco",75.143
-196,1998,6,"Circuit de Monaco",82.948
-974,2017,6,"Circuit de Monaco",74.82
-229,1996,6,"Circuit de Monaco",85.205
-1056,2021,6,"Circuit de Monaco",72.909
-994,2018,6,"Circuit de Monaco",74.26
-40,2007,6,"Circuit de Monaco",75.284
-905,2014,6,"Circuit de Monaco",78.479
-931,2015,6,"Circuit de Monaco",78.063
-131,2002,7,"Circuit Gilles Villeneuve",75.96
-1016,2019,7,"Circuit Gilles Villeneuve",73.078
-231,1996,7,"Circuit Gilles Villeneuve",81.916
-61,2006,7,"Circuit Gilles Villeneuve",75.841
-932,2015,7,"Circuit Gilles Villeneuve",76.987
-165,2000,7,"Circuit Gilles Villeneuve",79.049
-115,2003,7,"Circuit Gilles Villeneuve",76.04
-97,2004,7,"Circuit Gilles Villeneuve",73.622
-866,2012,7,"Circuit Gilles Villeneuve",75.752
-847,2011,7,"Circuit Gilles Villeneuve",76.956
-1082,2022,7,"Circuit Gilles Villeneuve",75.749
-995,2018,7,"Circuit Gilles Villeneuve",73.864
-886,2013,7,"Circuit Gilles Villeneuve",76.182
-41,2007,7,"Circuit Gilles Villeneuve",76.367
-78,2005,7,"Circuit Gilles Villeneuve",74.384
-975,2017,7,"Circuit Gilles Villeneuve",74.551
-1106,2023,7,"Circuit Gilles Villeneuve",74.481
-197,1998,7,"Circuit Gilles Villeneuve",79.379
-344,2010,7,"Circuit Gilles Villeneuve",76.972
-24,2008,7,"Circuit Gilles Villeneuve",77.387
-906,2014,7,"Circuit Gilles Villeneuve",78.504
-180,1999,7,"Circuit Gilles Villeneuve",80.382
-954,2016,7,"Circuit Gilles Villeneuve",75.599
-213,1997,7,"Circuit Gilles Villeneuve",79.635
-148,2001,7,"Circuit Gilles Villeneuve",77.205
-232,1996,8,"Circuit de Nevers Magny-Cours",78.61
-99,2004,8,"Circuit de Nevers Magny-Cours",75.377
-63,2006,8,"Circuit de Nevers Magny-Cours",77.111
-166,2000,8,"Circuit de Nevers Magny-Cours",79.479
-43,2007,8,"Circuit de Nevers Magny-Cours",76.099
-117,2003,8,"Circuit de Nevers Magny-Cours",75.512
-80,2005,8,"Circuit de Nevers Magny-Cours",76.423
-134,2002,8,"Circuit de Nevers Magny-Cours",75.045
-198,1998,8,"Circuit de Nevers Magny-Cours",77.523
-181,1999,8,"Circuit de Nevers Magny-Cours",79.227
-25,2008,8,"Circuit de Nevers Magny-Cours",76.63
-214,1997,8,"Circuit de Nevers Magny-Cours",77.91
-150,2001,8,"Circuit de Nevers Magny-Cours",76.088
-215,1997,9,"Silverstone Circuit",84.475
-849,2011,9,"Silverstone Circuit",93.391
-26,2008,9,"Silverstone Circuit",92.15
-133,2002,9,"Silverstone Circuit",83.083
-1061,2021,9,"Silverstone Circuit",88.617
-868,2012,9,"Silverstone Circuit",94.608
-1034,2020,9,"Silverstone Circuit",87.097
-8,2009,9,"Silverstone Circuit",80.735
-44,2007,9,"Silverstone Circuit",80.638
-346,2010,9,"Silverstone Circuit",90.874
-1019,2019,9,"Silverstone Circuit",87.369
-1108,2023,9,"Silverstone Circuit",90.275
-887,2013,9,"Silverstone Circuit",93.401
-151,2001,9,"Silverstone Circuit",83.405
-1083,2022,9,"Silverstone Circuit",90.51
-998,2018,9,"Silverstone Circuit",90.696
-908,2014,9,"Silverstone Circuit",97.176
-161,2000,9,"Silverstone Circuit",86.217
-934,2015,9,"Silverstone Circuit",96.61
-182,1999,9,"Silverstone Circuit",88.309
-233,1996,9,"Silverstone Circuit",89.288
-100,2004,9,"Silverstone Circuit",78.739
-957,2016,9,"Silverstone Circuit",95.548
-1035,2020,9,"Silverstone Circuit",88.451
-978,2017,9,"Silverstone Circuit",90.621
-118,2003,9,"Silverstone Circuit",82.236
-81,2005,9,"Silverstone Circuit",80.502
-199,1998,9,"Silverstone Circuit",95.704
-60,2006,9,"Silverstone Circuit",81.599
-234,1996,10,"Hockenheimring",106.504
-152,2001,10,"Hockenheimring",101.808
-959,2016,10,"Hockenheimring",78.442
-999,2018,10,"Hockenheimring",75.545
-909,2014,10,"Hockenheimring",79.908
-347,2010,10,"Hockenheimring",75.824
-168,2000,10,"Hockenheimring",104.3
-201,1998,10,"Hockenheimring",106.116
-82,2005,10,"Hockenheimring",74.873
-27,2008,10,"Hockenheimring",75.987
-869,2012,10,"Hockenheimring",78.725
-119,2003,10,"Hockenheimring",74.917
-101,2004,10,"Hockenheimring",73.78
-64,2006,10,"Hockenheimring",76.357
-1020,2019,10,"Hockenheimring",76.645
-135,2002,10,"Hockenheimring",76.462
-216,1997,10,"Hockenheimring",105.747
-184,1999,10,"Hockenheimring",105.27
-870,2012,11,"Hungaroring",84.136
-1109,2023,11,"Hungaroring",80.504
-1021,2019,11,"Hungaroring",77.103
-169,2000,11,"Hungaroring",80.028
-1000,2018,11,"Hungaroring",80.012
-46,2007,11,"Hungaroring",80.047
-65,2006,11,"Hungaroring",83.516
-185,1999,11,"Hungaroring",80.699
-890,2013,11,"Hungaroring",84.069
-1086,2022,11,"Hungaroring",81.386
-28,2008,11,"Hungaroring",81.195
-202,1998,11,"Hungaroring",79.286
-153,2001,11,"Hungaroring",76.723
-102,2004,11,"Hungaroring",79.071
-10,2009,11,"Hungaroring",81.931
-910,2014,11,"Hungaroring",85.724
-958,2016,11,"Hungaroring",83.086
-83,2005,11,"Hungaroring",81.219
-235,1996,11,"Hungaroring",80.093
-348,2010,11,"Hungaroring",82.362
-979,2017,11,"Hungaroring",80.182
-1062,2021,11,"Hungaroring",78.394
-136,2002,11,"Hungaroring",76.207
-851,2011,11,"Hungaroring",83.415
-1033,2020,11,"Hungaroring",76.627
-120,2003,11,"Hungaroring",82.095
-217,1997,11,"Hungaroring",78.372
-936,2015,11,"Hungaroring",84.821
-867,2012,12,"Valencia Street Circuit",102.163
-11,2009,12,"Valencia Street Circuit",98.683
-848,2011,12,"Valencia Street Circuit",101.852
-29,2008,12,"Valencia Street Circuit",98.708
-345,2010,12,"Valencia Street Circuit",98.766
-154,2001,13,"Circuit de Spa-Francorchamps",109.758
-170,2000,13,"Circuit de Spa-Francorchamps",113.803
-911,2014,13,"Circuit de Spa-Francorchamps",110.511
-30,2008,13,"Circuit de Spa-Francorchamps",107.93
-49,2007,13,"Circuit de Spa-Francorchamps",108.036
-852,2011,13,"Circuit de Spa-Francorchamps",109.883
-1037,2020,13,"Circuit de Spa-Francorchamps",107.483
-137,2002,13,"Circuit de Spa-Francorchamps",107.176
-86,2005,13,"Circuit de Spa-Francorchamps",111.453
-871,2012,13,"Circuit de Spa-Francorchamps",112.822
-1087,2022,13,"Circuit de Spa-Francorchamps",109.354
-218,1997,13,"Circuit de Spa-Francorchamps",112.692
-236,1996,13,"Circuit de Spa-Francorchamps",113.067
-12,2009,13,"Circuit de Spa-Francorchamps",107.263
-1110,2023,13,"Circuit de Spa-Francorchamps",107.305
-891,2013,13,"Circuit de Spa-Francorchamps",110.756
-980,2017,13,"Circuit de Spa-Francorchamps",106.577
-1022,2019,13,"Circuit de Spa-Francorchamps",106.409
-960,2016,13,"Circuit de Spa-Francorchamps",111.583
-203,1998,13,"Circuit de Spa-Francorchamps",123.766
-1063,2021,13,"Circuit de Spa-Francorchamps",207.071
-103,2004,13,"Circuit de Spa-Francorchamps",105.108
-349,2010,13,"Circuit de Spa-Francorchamps",109.069
-1001,2018,13,"Circuit de Spa-Francorchamps",106.286
-937,2015,13,"Circuit de Spa-Francorchamps",112.416
-186,1999,13,"Circuit de Spa-Francorchamps",113.955
-1023,2019,14,"Autodromo Nazionale di Monza",81.779
-1002,2018,14,"Autodromo Nazionale di Monza",82.497
-48,2007,14,"Autodromo Nazionale di Monza",82.871
-1038,2020,14,"Autodromo Nazionale di Monza",82.746
-350,2010,14,"Autodromo Nazionale di Monza",84.139
-237,1996,14,"Autodromo Nazionale di Monza",86.11
-853,2011,14,"Autodromo Nazionale di Monza",86.187
-961,2016,14,"Autodromo Nazionale di Monza",85.34
-31,2008,14,"Autodromo Nazionale di Monza",88.047
-171,2000,14,"Autodromo Nazionale di Monza",85.595
-1089,2022,14,"Autodromo Nazionale di Monza",84.03
-13,2009,14,"Autodromo Nazionale di Monza",84.739
-85,2005,14,"Autodromo Nazionale di Monza",81.504
-1065,2021,14,"Autodromo Nazionale di Monza",84.812
-872,2012,14,"Autodromo Nazionale di Monza",87.239
-892,2013,14,"Autodromo Nazionale di Monza",85.849
-187,1999,14,"Autodromo Nazionale di Monza",85.579
-219,1997,14,"Autodromo Nazionale di Monza",84.808
-981,2017,14,"Autodromo Nazionale di Monza",83.361
-912,2014,14,"Autodromo Nazionale di Monza",88.004
-138,2002,14,"Autodromo Nazionale di Monza",83.657
-121,2003,14,"Autodromo Nazionale di Monza",81.832
-155,2001,14,"Autodromo Nazionale di Monza",85.073
-104,2004,14,"Autodromo Nazionale di Monza",81.046
-67,2006,14,"Autodromo Nazionale di Monza",82.559
-938,2015,14,"Autodromo Nazionale di Monza",86.672
-204,1998,14,"Autodromo Nazionale di Monza",85.139
-982,2017,15,"Marina Bay Street Circuit",105.008
-32,2008,15,"Marina Bay Street Circuit",105.599
-351,2010,15,"Marina Bay Street Circuit",107.976
-913,2014,15,"Marina Bay Street Circuit",110.417
-1091,2022,15,"Marina Bay Street Circuit",106.458
-893,2013,15,"Marina Bay Street Circuit",108.574
-854,2011,15,"Marina Bay Street Circuit",108.454
-939,2015,15,"Marina Bay Street Circuit",110.041
-1003,2018,15,"Marina Bay Street Circuit",101.905
-873,2012,15,"Marina Bay Street Circuit",111.033
-962,2016,15,"Marina Bay Street Circuit",107.187
-14,2009,15,"Marina Bay Street Circuit",108.24
-1024,2019,15,"Marina Bay Street Circuit",102.301
-33,2008,16,"Fuji Speedway",78.426
-50,2007,16,"Fuji Speedway",88.193
-862,2012,17,"Shanghai International Circuit",99.96
-89,2005,17,"Shanghai International Circuit",93.242
-843,2011,17,"Shanghai International Circuit",98.993
-3,2009,17,"Shanghai International Circuit",112.592
-34,2008,17,"Shanghai International Circuit",96.325
-105,2004,17,"Shanghai International Circuit",92.238
-51,2007,17,"Shanghai International Circuit",97.454
-991,2018,17,"Shanghai International Circuit",95.785
-950,2016,17,"Shanghai International Circuit",99.824
-882,2013,17,"Shanghai International Circuit",96.808
-340,2010,17,"Shanghai International Circuit",102.061
-928,2015,17,"Shanghai International Circuit",102.208
-1012,2019,17,"Shanghai International Circuit",94.742
-68,2006,17,"Shanghai International Circuit",97.586
-903,2014,17,"Shanghai International Circuit",100.402
-970,2017,17,"Shanghai International Circuit",95.378
-899,2013,18,"Autódromo José Carlos Pace",75.436
-70,2006,18,"Autódromo José Carlos Pace",72.162
-1029,2019,18,"Autódromo José Carlos Pace",70.698
-35,2008,18,"Autódromo José Carlos Pace",73.736
-944,2015,18,"Autódromo José Carlos Pace",74.832
-176,1999,18,"Autódromo José Carlos Pace",78.448
-987,2017,18,"Autódromo José Carlos Pace",71.044
-159,2000,18,"Autódromo José Carlos Pace",74.755
-110,2003,18,"Autódromo José Carlos Pace",82.032
-52,2007,18,"Autódromo José Carlos Pace",72.445
-1008,2018,18,"Autódromo José Carlos Pace",70.54
-192,1998,18,"Autódromo José Carlos Pace",79.337
-1071,2021,18,"Autódromo José Carlos Pace",71.01
-879,2012,18,"Autódromo José Carlos Pace",78.069
-1095,2022,18,"Autódromo José Carlos Pace",73.785
-354,2010,18,"Autódromo José Carlos Pace",73.851
-87,2005,18,"Autódromo José Carlos Pace",72.268
-917,2014,18,"Autódromo José Carlos Pace",73.555
-107,2004,18,"Autódromo José Carlos Pace",71.473
-967,2016,18,"Autódromo José Carlos Pace",85.305
-208,1997,18,"Autódromo José Carlos Pace",78.397
-143,2001,18,"Autódromo José Carlos Pace",75.693
-859,2011,18,"Autódromo José Carlos Pace",75.324
-16,2009,18,"Autódromo José Carlos Pace",73.733
-225,1996,18,"Autódromo José Carlos Pace",81.547
-126,2002,18,"Autódromo José Carlos Pace",76.079
-172,2000,19,"Indianapolis Motor Speedway",74.711
-156,2001,19,"Indianapolis Motor Speedway",74.448
-98,2004,19,"Indianapolis Motor Speedway",70.399
-62,2006,19,"Indianapolis Motor Speedway",72.719
-122,2003,19,"Indianapolis Motor Speedway",71.473
-139,2002,19,"Indianapolis Motor Speedway",72.738
-42,2007,19,"Indianapolis Motor Speedway",73.117
-79,2005,19,"Indianapolis Motor Speedway",71.497
-188,1999,20,"Nürburgring",81.282
-205,1998,20,"Nürburgring",80.45
-149,2001,20,"Nürburgring",78.354
-45,2007,20,"Nürburgring",92.853
-227,1996,20,"Nürburgring",81.363
-77,2005,20,"Nürburgring",90.711
-116,2003,20,"Nürburgring",92.621
-163,2000,20,"Nürburgring",82.269
-1041,2020,20,"Nürburgring",88.139
-96,2004,20,"Nürburgring",89.468
-57,2006,20,"Nürburgring",92.099
-132,2002,20,"Nürburgring",92.226
-888,2013,20,"Nürburgring",93.468
-850,2011,20,"Nürburgring",94.302
-221,1997,20,"Nürburgring",78.805
-9,2009,20,"Nürburgring",93.365
-56,2006,21,"Autodromo Enzo e Dino Ferrari",84.569
-74,2005,21,"Autodromo Enzo e Dino Ferrari",81.858
-93,2004,21,"Autodromo Enzo e Dino Ferrari",80.411
-210,1997,21,"Autodromo Enzo e Dino Ferrari",85.531
-1077,2022,21,"Autodromo Enzo e Dino Ferrari",78.446
-127,2002,21,"Autodromo Enzo e Dino Ferrari",84.17
-111,2003,21,"Autodromo Enzo e Dino Ferrari",82.491
-228,1996,21,"Autodromo Enzo e Dino Ferrari",88.931
-1053,2021,21,"Autodromo Enzo e Dino Ferrari",76.702
-194,1998,21,"Autodromo Enzo e Dino Ferrari",89.345
-144,2001,21,"Autodromo Enzo e Dino Ferrari",85.524
-160,2000,21,"Autodromo Enzo e Dino Ferrari",86.523
-1043,2020,21,"Autodromo Enzo e Dino Ferrari",75.484
-177,1999,21,"Autodromo Enzo e Dino Ferrari",88.547
-15,2009,22,"Suzuka Circuit",92.569
-1026,2019,22,"Suzuka Circuit",90.983
-69,2006,22,"Suzuka Circuit",92.676
-106,2004,22,"Suzuka Circuit",92.73
-173,2000,22,"Suzuka Circuit",99.189
-123,2003,22,"Suzuka Circuit",93.408
-1092,2022,22,"Suzuka Circuit",104.411
-222,1997,22,"Suzuka Circuit",98.942
-206,1998,22,"Suzuka Circuit",100.19
-157,2001,22,"Suzuka Circuit",96.45
-874,2012,22,"Suzuka Circuit",95.774
-914,2014,22,"Suzuka Circuit",111.6
-1005,2018,22,"Suzuka Circuit",92.318
-190,1999,22,"Suzuka Circuit",101.319
-895,2013,22,"Suzuka Circuit",94.587
-855,2011,22,"Suzuka Circuit",96.568
-88,2005,22,"Suzuka Circuit",91.54
-352,2010,22,"Suzuka Circuit",93.474
-964,2016,22,"Suzuka Circuit",95.118
-984,2017,22,"Suzuka Circuit",93.144
-140,2002,22,"Suzuka Circuit",96.125
-940,2015,22,"Suzuka Circuit",96.145
-239,1996,22,"Suzuka Circuit",104.043
-945,2015,24,"Yas Marina Circuit",104.517
-988,2017,24,"Yas Marina Circuit",100.65
-877,2012,24,"Yas Marina Circuit",103.964
-897,2013,24,"Yas Marina Circuit",103.434
-17,2009,24,"Yas Marina Circuit",100.279
-918,2014,24,"Yas Marina Circuit",104.496
-1096,2022,24,"Yas Marina Circuit",88.391
-968,2016,24,"Yas Marina Circuit",103.729
-1073,2021,24,"Yas Marina Circuit",86.103
-1047,2020,24,"Yas Marina Circuit",100.926
-858,2011,24,"Yas Marina Circuit",102.612
-355,2010,24,"Yas Marina Circuit",101.274
-1030,2019,24,"Yas Marina Circuit",99.283
-1009,2018,24,"Yas Marina Circuit",100.867
-226,1996,25,"Autódromo Juan y Oscar Gálvez",89.413
-193,1998,25,"Autódromo Juan y Oscar Gálvez",88.179
-209,1997,25,"Autódromo Juan y Oscar Gálvez",87.981
-223,1997,26,"Circuito de Jerez",83.135
-238,1996,27,"Autódromo do Estoril",82.873
-966,2016,32,"Autódromo Hermanos Rodríguez",81.134
-1007,2018,32,"Autódromo Hermanos Rodríguez",78.741
-1027,2019,32,"Autódromo Hermanos Rodríguez",79.232
-986,2017,32,"Autódromo Hermanos Rodríguez",78.785
-1094,2022,32,"Autódromo Hermanos Rodríguez",80.153
-1070,2021,32,"Autódromo Hermanos Rodríguez",77.774
-943,2015,32,"Autódromo Hermanos Rodríguez",80.521
-1085,2022,34,"Circuit Paul Ricard",95.781
-1059,2021,34,"Circuit Paul Ricard",96.404
-1017,2019,34,"Circuit Paul Ricard",92.74
-996,2018,34,"Circuit Paul Ricard",94.225
-353,2010,35,"Korean International Circuit",110.257
-894,2013,35,"Korean International Circuit",101.38
-875,2012,35,"Korean International Circuit",102.037
-856,2011,35,"Korean International Circuit",99.605
-1088,2022,39,"Circuit Park Zandvoort",73.652
-1064,2021,39,"Circuit Park Zandvoort",71.097
-896,2013,68,"Buddh International Circuit",87.679
-857,2011,68,"Buddh International Circuit",87.249
-876,2012,68,"Buddh International Circuit",88.203
-1028,2019,69,"Circuit of the Americas",96.169
-985,2017,69,"Circuit of the Americas",97.766
-878,2012,69,"Circuit of the Americas",99.347
-898,2013,69,"Circuit of the Americas",99.856
-1006,2018,69,"Circuit of the Americas",97.392
-1093,2022,69,"Circuit of the Americas",98.788
-1069,2021,69,"Circuit of the Americas",98.485
-916,2014,69,"Circuit of the Americas",101.379
-965,2016,69,"Circuit of the Americas",99.877
-942,2015,69,"Circuit of the Americas",100.666
-933,2015,70,"Red Bull Ring",71.235
-1084,2022,70,"Red Bull Ring",67.275
-113,2003,70,"Red Bull Ring",68.337
-167,2000,70,"Red Bull Ring",71.783
-1032,2020,70,"Red Bull Ring",65.619
-183,1999,70,"Red Bull Ring",72.107
-977,2017,70,"Red Bull Ring",67.411
-997,2018,70,"Red Bull Ring",66.957
-1060,2021,70,"Red Bull Ring",66.2
-1018,2019,70,"Red Bull Ring",67.475
-200,1998,70,"Red Bull Ring",72.878
-220,1997,70,"Red Bull Ring",71.814
-1058,2021,70,"Red Bull Ring",67.058
-1107,2023,70,"Red Bull Ring",67.012
-1031,2020,70,"Red Bull Ring",67.475
-129,2002,70,"Red Bull Ring",69.298
-956,2016,70,"Red Bull Ring",68.411
-146,2001,70,"Red Bull Ring",70.843
-907,2014,70,"Red Bull Ring",72.142
-951,2016,71,"Sochi Autodrom",99.094
-1040,2020,71,"Sochi Autodrom",97.03
-972,2017,71,"Sochi Autodrom",96.844
-1004,2018,71,"Sochi Autodrom",95.861
-1025,2019,71,"Sochi Autodrom",95.761
-941,2015,71,"Sochi Autodrom",100.071
-915,2014,71,"Sochi Autodrom",100.896
-1066,2021,71,"Sochi Autodrom",97.423
-955,2016,73,"Baku City Circuit",106.485
-1057,2021,73,"Baku City Circuit",104.481
-1013,2019,73,"Baku City Circuit",103.009
-1101,2023,73,"Baku City Circuit",103.37
-976,2017,73,"Baku City Circuit",103.441
-992,2018,73,"Baku City Circuit",105.149
-1081,2022,73,"Baku City Circuit",106.046
-1054,2021,75,"Autódromo Internacional do Algarve",79.849
-1042,2020,75,"Autódromo Internacional do Algarve",78.75
-1039,2020,76,"Autodromo Internazionale del Mugello",78.833
-1099,2023,77,"Jeddah Corniche Circuit",91.906
-1075,2022,77,"Jeddah Corniche Circuit",91.634
-1072,2021,77,"Jeddah Corniche Circuit",90.734
-1051,2021,78,"Losail International Circuit",83.196
-1102,2023,79,"Miami International Autodrome",89.708
-1078,2022,79,"Miami International Autodrome",91.361
+"raceId","year","circuitId","name","country","fastest_time"
+1,2009,1,"Albert Park Grand Prix Circuit","Australia",87.706
+55,2006,1,"Albert Park Grand Prix Circuit","Australia",86.045
+124,2002,1,"Albert Park Grand Prix Circuit","Australia",88.541
+841,2011,1,"Albert Park Grand Prix Circuit","Australia",88.947
+18,2008,1,"Albert Park Grand Prix Circuit","Australia",87.418
+207,1997,1,"Albert Park Grand Prix Circuit","Australia",90.585
+141,2001,1,"Albert Park Grand Prix Circuit","Australia",88.214
+948,2016,1,"Albert Park Grand Prix Circuit","Australia",88.997
+900,2014,1,"Albert Park Grand Prix Circuit","Australia",92.478
+90,2004,1,"Albert Park Grand Prix Circuit","Australia",84.125
+158,2000,1,"Albert Park Grand Prix Circuit","Australia",91.481
+860,2012,1,"Albert Park Grand Prix Circuit","Australia",89.187
+969,2017,1,"Albert Park Grand Prix Circuit","Australia",86.538
+175,1999,1,"Albert Park Grand Prix Circuit","Australia",92.112
+108,2003,1,"Albert Park Grand Prix Circuit","Australia",87.724
+880,2013,1,"Albert Park Grand Prix Circuit","Australia",89.274
+191,1998,1,"Albert Park Grand Prix Circuit","Australia",91.649
+71,2005,1,"Albert Park Grand Prix Circuit","Australia",85.683
+1100,2023,1,"Albert Park Grand Prix Circuit","Australia",80.235
+989,2018,1,"Albert Park Grand Prix Circuit","Australia",85.945
+1010,2019,1,"Albert Park Grand Prix Circuit","Australia",85.58
+224,1996,1,"Albert Park Grand Prix Circuit","Australia",93.421
+1076,2022,1,"Albert Park Grand Prix Circuit","Australia",80.26
+338,2010,1,"Albert Park Grand Prix Circuit","Australia",88.358
+926,2015,1,"Albert Park Grand Prix Circuit","Australia",90.945
+36,2007,1,"Albert Park Grand Prix Circuit","Australia",85.235
+861,2012,2,"Sepang International Circuit","Malaysia",100.722
+142,2001,2,"Sepang International Circuit","Malaysia",100.962
+125,2002,2,"Sepang International Circuit","Malaysia",98.049
+37,2007,2,"Sepang International Circuit","Malaysia",96.701
+901,2014,2,"Sepang International Circuit","Malaysia",103.066
+881,2013,2,"Sepang International Circuit","Malaysia",99.199
+963,2016,2,"Sepang International Circuit","Malaysia",96.424
+109,2003,2,"Sepang International Circuit","Malaysia",96.412
+54,2006,2,"Sepang International Circuit","Malaysia",94.803
+19,2008,2,"Sepang International Circuit","Malaysia",95.366
+91,2004,2,"Sepang International Circuit","Malaysia",94.223
+842,2011,2,"Sepang International Circuit","Malaysia",100.571
+189,1999,2,"Sepang International Circuit","Malaysia",100.267
+983,2017,2,"Sepang International Circuit","Malaysia",94.08
+2,2009,2,"Sepang International Circuit","Malaysia",96.641
+339,2010,2,"Sepang International Circuit","Malaysia",97.054
+927,2015,2,"Sepang International Circuit","Malaysia",102.062
+72,2005,2,"Sepang International Circuit","Malaysia",95.483
+174,2000,2,"Sepang International Circuit","Malaysia",98.543
+20,2008,3,"Bahrain International Circuit","Bahrain",93.193
+949,2016,3,"Bahrain International Circuit","Bahrain",94.482
+1045,2020,3,"Bahrain International Circuit","Bahrain",92.014
+1046,2020,3,"Bahrain International Circuit","Bahrain",55.404
+4,2009,3,"Bahrain International Circuit","Bahrain",94.556
+1052,2021,3,"Bahrain International Circuit","Bahrain",92.09
+883,2013,3,"Bahrain International Circuit","Bahrain",96.961
+73,2005,3,"Bahrain International Circuit","Bahrain",91.447
+1074,2022,3,"Bahrain International Circuit","Bahrain",94.57
+1098,2023,3,"Bahrain International Circuit","Bahrain",93.996
+929,2015,3,"Bahrain International Circuit","Bahrain",96.311
+902,2014,3,"Bahrain International Circuit","Bahrain",97.02
+53,2006,3,"Bahrain International Circuit","Bahrain",92.408
+863,2012,3,"Bahrain International Circuit","Bahrain",96.379
+337,2010,3,"Bahrain International Circuit","Bahrain",118.287
+92,2004,3,"Bahrain International Circuit","Bahrain",90.252
+990,2018,3,"Bahrain International Circuit","Bahrain",93.74
+971,2017,3,"Bahrain International Circuit","Bahrain",92.798
+1011,2019,3,"Bahrain International Circuit","Bahrain",93.411
+38,2007,3,"Bahrain International Circuit","Bahrain",94.067
+145,2001,4,"Circuit de Barcelona-Catalunya","Spain",81.151
+195,1998,4,"Circuit de Barcelona-Catalunya","Spain",84.275
+5,2009,4,"Circuit de Barcelona-Catalunya","Spain",82.762
+128,2002,4,"Circuit de Barcelona-Catalunya","Spain",80.355
+1014,2019,4,"Circuit de Barcelona-Catalunya","Spain",78.492
+884,2013,4,"Circuit de Barcelona-Catalunya","Spain",86.217
+179,1999,4,"Circuit de Barcelona-Catalunya","Spain",84.982
+845,2011,4,"Circuit de Barcelona-Catalunya","Spain",86.727
+21,2008,4,"Circuit de Barcelona-Catalunya","Spain",81.67
+212,1997,4,"Circuit de Barcelona-Catalunya","Spain",82.242
+952,2016,4,"Circuit de Barcelona-Catalunya","Spain",86.948
+864,2012,4,"Circuit de Barcelona-Catalunya","Spain",86.25
+930,2015,4,"Circuit de Barcelona-Catalunya","Spain",88.27
+341,2010,4,"Circuit de Barcelona-Catalunya","Spain",84.357
+230,1996,4,"Circuit de Barcelona-Catalunya","Spain",105.517
+94,2004,4,"Circuit de Barcelona-Catalunya","Spain",77.45
+112,2003,4,"Circuit de Barcelona-Catalunya","Spain",80.143
+1055,2021,4,"Circuit de Barcelona-Catalunya","Spain",78.149
+58,2006,4,"Circuit de Barcelona-Catalunya","Spain",76.648
+973,2017,4,"Circuit de Barcelona-Catalunya","Spain",83.593
+993,2018,4,"Circuit de Barcelona-Catalunya","Spain",78.441
+1105,2023,4,"Circuit de Barcelona-Catalunya","Spain",76.33
+75,2005,4,"Circuit de Barcelona-Catalunya","Spain",75.641
+1079,2022,4,"Circuit de Barcelona-Catalunya","Spain",84.108
+162,2000,4,"Circuit de Barcelona-Catalunya","Spain",84.47
+39,2007,4,"Circuit de Barcelona-Catalunya","Spain",82.68
+904,2014,4,"Circuit de Barcelona-Catalunya","Spain",88.918
+1036,2020,4,"Circuit de Barcelona-Catalunya","Spain",78.183
+1044,2020,5,"Istanbul Park","Turkey",96.806
+22,2008,5,"Istanbul Park","Turkey",86.506
+66,2006,5,"Istanbul Park","Turkey",88.005
+84,2005,5,"Istanbul Park","Turkey",84.77
+47,2007,5,"Istanbul Park","Turkey",87.295
+343,2010,5,"Istanbul Park","Turkey",89.165
+844,2011,5,"Istanbul Park","Turkey",89.703
+1067,2021,5,"Istanbul Park","Turkey",90.432
+7,2009,5,"Istanbul Park","Turkey",87.579
+1104,2023,6,"Circuit de Monaco","Monaco",75.65
+953,2016,6,"Circuit de Monaco","Monaco",77.939
+6,2009,6,"Circuit de Monaco","Monaco",75.154
+211,1997,6,"Circuit de Monaco","Monaco",113.315
+130,2002,6,"Circuit de Monaco","Monaco",78.023
+885,2013,6,"Circuit de Monaco","Monaco",76.577
+95,2004,6,"Circuit de Monaco","Monaco",74.439
+178,1999,6,"Circuit de Monaco","Monaco",82.259
+114,2003,6,"Circuit de Monaco","Monaco",74.545
+76,2005,6,"Circuit de Monaco","Monaco",75.842
+23,2008,6,"Circuit de Monaco","Monaco",76.689
+147,2001,6,"Circuit de Monaco","Monaco",79.424
+164,2000,6,"Circuit de Monaco","Monaco",81.571
+1080,2022,6,"Circuit de Monaco","Monaco",74.693
+342,2010,6,"Circuit de Monaco","Monaco",75.192
+1015,2019,6,"Circuit de Monaco","Monaco",74.279
+865,2012,6,"Circuit de Monaco","Monaco",77.296
+846,2011,6,"Circuit de Monaco","Monaco",76.234
+59,2006,6,"Circuit de Monaco","Monaco",75.143
+196,1998,6,"Circuit de Monaco","Monaco",82.948
+974,2017,6,"Circuit de Monaco","Monaco",74.82
+229,1996,6,"Circuit de Monaco","Monaco",85.205
+1056,2021,6,"Circuit de Monaco","Monaco",72.909
+994,2018,6,"Circuit de Monaco","Monaco",74.26
+40,2007,6,"Circuit de Monaco","Monaco",75.284
+905,2014,6,"Circuit de Monaco","Monaco",78.479
+931,2015,6,"Circuit de Monaco","Monaco",78.063
+131,2002,7,"Circuit Gilles Villeneuve","Canada",75.96
+1016,2019,7,"Circuit Gilles Villeneuve","Canada",73.078
+231,1996,7,"Circuit Gilles Villeneuve","Canada",81.916
+61,2006,7,"Circuit Gilles Villeneuve","Canada",75.841
+932,2015,7,"Circuit Gilles Villeneuve","Canada",76.987
+165,2000,7,"Circuit Gilles Villeneuve","Canada",79.049
+115,2003,7,"Circuit Gilles Villeneuve","Canada",76.04
+97,2004,7,"Circuit Gilles Villeneuve","Canada",73.622
+866,2012,7,"Circuit Gilles Villeneuve","Canada",75.752
+847,2011,7,"Circuit Gilles Villeneuve","Canada",76.956
+1082,2022,7,"Circuit Gilles Villeneuve","Canada",75.749
+995,2018,7,"Circuit Gilles Villeneuve","Canada",73.864
+886,2013,7,"Circuit Gilles Villeneuve","Canada",76.182
+41,2007,7,"Circuit Gilles Villeneuve","Canada",76.367
+78,2005,7,"Circuit Gilles Villeneuve","Canada",74.384
+975,2017,7,"Circuit Gilles Villeneuve","Canada",74.551
+1106,2023,7,"Circuit Gilles Villeneuve","Canada",74.481
+197,1998,7,"Circuit Gilles Villeneuve","Canada",79.379
+344,2010,7,"Circuit Gilles Villeneuve","Canada",76.972
+24,2008,7,"Circuit Gilles Villeneuve","Canada",77.387
+906,2014,7,"Circuit Gilles Villeneuve","Canada",78.504
+180,1999,7,"Circuit Gilles Villeneuve","Canada",80.382
+954,2016,7,"Circuit Gilles Villeneuve","Canada",75.599
+213,1997,7,"Circuit Gilles Villeneuve","Canada",79.635
+148,2001,7,"Circuit Gilles Villeneuve","Canada",77.205
+232,1996,8,"Circuit de Nevers Magny-Cours","France",78.61
+99,2004,8,"Circuit de Nevers Magny-Cours","France",75.377
+63,2006,8,"Circuit de Nevers Magny-Cours","France",77.111
+166,2000,8,"Circuit de Nevers Magny-Cours","France",79.479
+43,2007,8,"Circuit de Nevers Magny-Cours","France",76.099
+117,2003,8,"Circuit de Nevers Magny-Cours","France",75.512
+80,2005,8,"Circuit de Nevers Magny-Cours","France",76.423
+134,2002,8,"Circuit de Nevers Magny-Cours","France",75.045
+198,1998,8,"Circuit de Nevers Magny-Cours","France",77.523
+181,1999,8,"Circuit de Nevers Magny-Cours","France",79.227
+25,2008,8,"Circuit de Nevers Magny-Cours","France",76.63
+214,1997,8,"Circuit de Nevers Magny-Cours","France",77.91
+150,2001,8,"Circuit de Nevers Magny-Cours","France",76.088
+215,1997,9,"Silverstone Circuit","UK",84.475
+849,2011,9,"Silverstone Circuit","UK",93.391
+26,2008,9,"Silverstone Circuit","UK",92.15
+133,2002,9,"Silverstone Circuit","UK",83.083
+1061,2021,9,"Silverstone Circuit","UK",88.617
+868,2012,9,"Silverstone Circuit","UK",94.608
+1034,2020,9,"Silverstone Circuit","UK",87.097
+8,2009,9,"Silverstone Circuit","UK",80.735
+44,2007,9,"Silverstone Circuit","UK",80.638
+346,2010,9,"Silverstone Circuit","UK",90.874
+1019,2019,9,"Silverstone Circuit","UK",87.369
+1108,2023,9,"Silverstone Circuit","UK",90.275
+887,2013,9,"Silverstone Circuit","UK",93.401
+151,2001,9,"Silverstone Circuit","UK",83.405
+1083,2022,9,"Silverstone Circuit","UK",90.51
+998,2018,9,"Silverstone Circuit","UK",90.696
+908,2014,9,"Silverstone Circuit","UK",97.176
+161,2000,9,"Silverstone Circuit","UK",86.217
+934,2015,9,"Silverstone Circuit","UK",96.61
+182,1999,9,"Silverstone Circuit","UK",88.309
+233,1996,9,"Silverstone Circuit","UK",89.288
+100,2004,9,"Silverstone Circuit","UK",78.739
+957,2016,9,"Silverstone Circuit","UK",95.548
+1035,2020,9,"Silverstone Circuit","UK",88.451
+978,2017,9,"Silverstone Circuit","UK",90.621
+118,2003,9,"Silverstone Circuit","UK",82.236
+81,2005,9,"Silverstone Circuit","UK",80.502
+199,1998,9,"Silverstone Circuit","UK",95.704
+60,2006,9,"Silverstone Circuit","UK",81.599
+234,1996,10,"Hockenheimring","Germany",106.504
+152,2001,10,"Hockenheimring","Germany",101.808
+959,2016,10,"Hockenheimring","Germany",78.442
+999,2018,10,"Hockenheimring","Germany",75.545
+909,2014,10,"Hockenheimring","Germany",79.908
+347,2010,10,"Hockenheimring","Germany",75.824
+168,2000,10,"Hockenheimring","Germany",104.3
+201,1998,10,"Hockenheimring","Germany",106.116
+82,2005,10,"Hockenheimring","Germany",74.873
+27,2008,10,"Hockenheimring","Germany",75.987
+869,2012,10,"Hockenheimring","Germany",78.725
+119,2003,10,"Hockenheimring","Germany",74.917
+101,2004,10,"Hockenheimring","Germany",73.78
+64,2006,10,"Hockenheimring","Germany",76.357
+1020,2019,10,"Hockenheimring","Germany",76.645
+135,2002,10,"Hockenheimring","Germany",76.462
+216,1997,10,"Hockenheimring","Germany",105.747
+184,1999,10,"Hockenheimring","Germany",105.27
+870,2012,11,"Hungaroring","Hungary",84.136
+1109,2023,11,"Hungaroring","Hungary",80.504
+1021,2019,11,"Hungaroring","Hungary",77.103
+169,2000,11,"Hungaroring","Hungary",80.028
+1000,2018,11,"Hungaroring","Hungary",80.012
+46,2007,11,"Hungaroring","Hungary",80.047
+65,2006,11,"Hungaroring","Hungary",83.516
+185,1999,11,"Hungaroring","Hungary",80.699
+890,2013,11,"Hungaroring","Hungary",84.069
+1086,2022,11,"Hungaroring","Hungary",81.386
+28,2008,11,"Hungaroring","Hungary",81.195
+202,1998,11,"Hungaroring","Hungary",79.286
+153,2001,11,"Hungaroring","Hungary",76.723
+102,2004,11,"Hungaroring","Hungary",79.071
+10,2009,11,"Hungaroring","Hungary",81.931
+910,2014,11,"Hungaroring","Hungary",85.724
+958,2016,11,"Hungaroring","Hungary",83.086
+83,2005,11,"Hungaroring","Hungary",81.219
+235,1996,11,"Hungaroring","Hungary",80.093
+348,2010,11,"Hungaroring","Hungary",82.362
+979,2017,11,"Hungaroring","Hungary",80.182
+1062,2021,11,"Hungaroring","Hungary",78.394
+136,2002,11,"Hungaroring","Hungary",76.207
+851,2011,11,"Hungaroring","Hungary",83.415
+1033,2020,11,"Hungaroring","Hungary",76.627
+120,2003,11,"Hungaroring","Hungary",82.095
+217,1997,11,"Hungaroring","Hungary",78.372
+936,2015,11,"Hungaroring","Hungary",84.821
+867,2012,12,"Valencia Street Circuit","Spain",102.163
+11,2009,12,"Valencia Street Circuit","Spain",98.683
+848,2011,12,"Valencia Street Circuit","Spain",101.852
+29,2008,12,"Valencia Street Circuit","Spain",98.708
+345,2010,12,"Valencia Street Circuit","Spain",98.766
+154,2001,13,"Circuit de Spa-Francorchamps","Belgium",109.758
+170,2000,13,"Circuit de Spa-Francorchamps","Belgium",113.803
+911,2014,13,"Circuit de Spa-Francorchamps","Belgium",110.511
+30,2008,13,"Circuit de Spa-Francorchamps","Belgium",107.93
+49,2007,13,"Circuit de Spa-Francorchamps","Belgium",108.036
+852,2011,13,"Circuit de Spa-Francorchamps","Belgium",109.883
+1037,2020,13,"Circuit de Spa-Francorchamps","Belgium",107.483
+137,2002,13,"Circuit de Spa-Francorchamps","Belgium",107.176
+86,2005,13,"Circuit de Spa-Francorchamps","Belgium",111.453
+871,2012,13,"Circuit de Spa-Francorchamps","Belgium",112.822
+1087,2022,13,"Circuit de Spa-Francorchamps","Belgium",109.354
+218,1997,13,"Circuit de Spa-Francorchamps","Belgium",112.692
+236,1996,13,"Circuit de Spa-Francorchamps","Belgium",113.067
+12,2009,13,"Circuit de Spa-Francorchamps","Belgium",107.263
+1110,2023,13,"Circuit de Spa-Francorchamps","Belgium",107.305
+891,2013,13,"Circuit de Spa-Francorchamps","Belgium",110.756
+980,2017,13,"Circuit de Spa-Francorchamps","Belgium",106.577
+1022,2019,13,"Circuit de Spa-Francorchamps","Belgium",106.409
+960,2016,13,"Circuit de Spa-Francorchamps","Belgium",111.583
+203,1998,13,"Circuit de Spa-Francorchamps","Belgium",123.766
+1063,2021,13,"Circuit de Spa-Francorchamps","Belgium",207.071
+103,2004,13,"Circuit de Spa-Francorchamps","Belgium",105.108
+349,2010,13,"Circuit de Spa-Francorchamps","Belgium",109.069
+1001,2018,13,"Circuit de Spa-Francorchamps","Belgium",106.286
+937,2015,13,"Circuit de Spa-Francorchamps","Belgium",112.416
+186,1999,13,"Circuit de Spa-Francorchamps","Belgium",113.955
+1023,2019,14,"Autodromo Nazionale di Monza","Italy",81.779
+1002,2018,14,"Autodromo Nazionale di Monza","Italy",82.497
+48,2007,14,"Autodromo Nazionale di Monza","Italy",82.871
+1038,2020,14,"Autodromo Nazionale di Monza","Italy",82.746
+350,2010,14,"Autodromo Nazionale di Monza","Italy",84.139
+237,1996,14,"Autodromo Nazionale di Monza","Italy",86.11
+853,2011,14,"Autodromo Nazionale di Monza","Italy",86.187
+961,2016,14,"Autodromo Nazionale di Monza","Italy",85.34
+31,2008,14,"Autodromo Nazionale di Monza","Italy",88.047
+171,2000,14,"Autodromo Nazionale di Monza","Italy",85.595
+1089,2022,14,"Autodromo Nazionale di Monza","Italy",84.03
+13,2009,14,"Autodromo Nazionale di Monza","Italy",84.739
+85,2005,14,"Autodromo Nazionale di Monza","Italy",81.504
+1065,2021,14,"Autodromo Nazionale di Monza","Italy",84.812
+872,2012,14,"Autodromo Nazionale di Monza","Italy",87.239
+892,2013,14,"Autodromo Nazionale di Monza","Italy",85.849
+187,1999,14,"Autodromo Nazionale di Monza","Italy",85.579
+219,1997,14,"Autodromo Nazionale di Monza","Italy",84.808
+981,2017,14,"Autodromo Nazionale di Monza","Italy",83.361
+912,2014,14,"Autodromo Nazionale di Monza","Italy",88.004
+138,2002,14,"Autodromo Nazionale di Monza","Italy",83.657
+121,2003,14,"Autodromo Nazionale di Monza","Italy",81.832
+155,2001,14,"Autodromo Nazionale di Monza","Italy",85.073
+104,2004,14,"Autodromo Nazionale di Monza","Italy",81.046
+67,2006,14,"Autodromo Nazionale di Monza","Italy",82.559
+938,2015,14,"Autodromo Nazionale di Monza","Italy",86.672
+204,1998,14,"Autodromo Nazionale di Monza","Italy",85.139
+982,2017,15,"Marina Bay Street Circuit","Singapore",105.008
+32,2008,15,"Marina Bay Street Circuit","Singapore",105.599
+351,2010,15,"Marina Bay Street Circuit","Singapore",107.976
+913,2014,15,"Marina Bay Street Circuit","Singapore",110.417
+1091,2022,15,"Marina Bay Street Circuit","Singapore",106.458
+893,2013,15,"Marina Bay Street Circuit","Singapore",108.574
+854,2011,15,"Marina Bay Street Circuit","Singapore",108.454
+939,2015,15,"Marina Bay Street Circuit","Singapore",110.041
+1003,2018,15,"Marina Bay Street Circuit","Singapore",101.905
+873,2012,15,"Marina Bay Street Circuit","Singapore",111.033
+962,2016,15,"Marina Bay Street Circuit","Singapore",107.187
+14,2009,15,"Marina Bay Street Circuit","Singapore",108.24
+1024,2019,15,"Marina Bay Street Circuit","Singapore",102.301
+33,2008,16,"Fuji Speedway","Japan",78.426
+50,2007,16,"Fuji Speedway","Japan",88.193
+862,2012,17,"Shanghai International Circuit","China",99.96
+89,2005,17,"Shanghai International Circuit","China",93.242
+843,2011,17,"Shanghai International Circuit","China",98.993
+3,2009,17,"Shanghai International Circuit","China",112.592
+34,2008,17,"Shanghai International Circuit","China",96.325
+105,2004,17,"Shanghai International Circuit","China",92.238
+51,2007,17,"Shanghai International Circuit","China",97.454
+991,2018,17,"Shanghai International Circuit","China",95.785
+950,2016,17,"Shanghai International Circuit","China",99.824
+882,2013,17,"Shanghai International Circuit","China",96.808
+340,2010,17,"Shanghai International Circuit","China",102.061
+928,2015,17,"Shanghai International Circuit","China",102.208
+1012,2019,17,"Shanghai International Circuit","China",94.742
+68,2006,17,"Shanghai International Circuit","China",97.586
+903,2014,17,"Shanghai International Circuit","China",100.402
+970,2017,17,"Shanghai International Circuit","China",95.378
+899,2013,18,"Autódromo José Carlos Pace","Brazil",75.436
+70,2006,18,"Autódromo José Carlos Pace","Brazil",72.162
+1029,2019,18,"Autódromo José Carlos Pace","Brazil",70.698
+35,2008,18,"Autódromo José Carlos Pace","Brazil",73.736
+944,2015,18,"Autódromo José Carlos Pace","Brazil",74.832
+176,1999,18,"Autódromo José Carlos Pace","Brazil",78.448
+987,2017,18,"Autódromo José Carlos Pace","Brazil",71.044
+159,2000,18,"Autódromo José Carlos Pace","Brazil",74.755
+110,2003,18,"Autódromo José Carlos Pace","Brazil",82.032
+52,2007,18,"Autódromo José Carlos Pace","Brazil",72.445
+1008,2018,18,"Autódromo José Carlos Pace","Brazil",70.54
+192,1998,18,"Autódromo José Carlos Pace","Brazil",79.337
+1071,2021,18,"Autódromo José Carlos Pace","Brazil",71.01
+879,2012,18,"Autódromo José Carlos Pace","Brazil",78.069
+1095,2022,18,"Autódromo José Carlos Pace","Brazil",73.785
+354,2010,18,"Autódromo José Carlos Pace","Brazil",73.851
+87,2005,18,"Autódromo José Carlos Pace","Brazil",72.268
+917,2014,18,"Autódromo José Carlos Pace","Brazil",73.555
+107,2004,18,"Autódromo José Carlos Pace","Brazil",71.473
+967,2016,18,"Autódromo José Carlos Pace","Brazil",85.305
+208,1997,18,"Autódromo José Carlos Pace","Brazil",78.397
+143,2001,18,"Autódromo José Carlos Pace","Brazil",75.693
+859,2011,18,"Autódromo José Carlos Pace","Brazil",75.324
+16,2009,18,"Autódromo José Carlos Pace","Brazil",73.733
+225,1996,18,"Autódromo José Carlos Pace","Brazil",81.547
+126,2002,18,"Autódromo José Carlos Pace","Brazil",76.079
+172,2000,19,"Indianapolis Motor Speedway","USA",74.711
+156,2001,19,"Indianapolis Motor Speedway","USA",74.448
+98,2004,19,"Indianapolis Motor Speedway","USA",70.399
+62,2006,19,"Indianapolis Motor Speedway","USA",72.719
+122,2003,19,"Indianapolis Motor Speedway","USA",71.473
+139,2002,19,"Indianapolis Motor Speedway","USA",72.738
+42,2007,19,"Indianapolis Motor Speedway","USA",73.117
+79,2005,19,"Indianapolis Motor Speedway","USA",71.497
+188,1999,20,"Nürburgring","Germany",81.282
+205,1998,20,"Nürburgring","Germany",80.45
+149,2001,20,"Nürburgring","Germany",78.354
+45,2007,20,"Nürburgring","Germany",92.853
+227,1996,20,"Nürburgring","Germany",81.363
+77,2005,20,"Nürburgring","Germany",90.711
+116,2003,20,"Nürburgring","Germany",92.621
+163,2000,20,"Nürburgring","Germany",82.269
+1041,2020,20,"Nürburgring","Germany",88.139
+96,2004,20,"Nürburgring","Germany",89.468
+57,2006,20,"Nürburgring","Germany",92.099
+132,2002,20,"Nürburgring","Germany",92.226
+888,2013,20,"Nürburgring","Germany",93.468
+850,2011,20,"Nürburgring","Germany",94.302
+221,1997,20,"Nürburgring","Germany",78.805
+9,2009,20,"Nürburgring","Germany",93.365
+56,2006,21,"Autodromo Enzo e Dino Ferrari","Italy",84.569
+74,2005,21,"Autodromo Enzo e Dino Ferrari","Italy",81.858
+93,2004,21,"Autodromo Enzo e Dino Ferrari","Italy",80.411
+210,1997,21,"Autodromo Enzo e Dino Ferrari","Italy",85.531
+1077,2022,21,"Autodromo Enzo e Dino Ferrari","Italy",78.446
+127,2002,21,"Autodromo Enzo e Dino Ferrari","Italy",84.17
+111,2003,21,"Autodromo Enzo e Dino Ferrari","Italy",82.491
+228,1996,21,"Autodromo Enzo e Dino Ferrari","Italy",88.931
+1053,2021,21,"Autodromo Enzo e Dino Ferrari","Italy",76.702
+194,1998,21,"Autodromo Enzo e Dino Ferrari","Italy",89.345
+144,2001,21,"Autodromo Enzo e Dino Ferrari","Italy",85.524
+160,2000,21,"Autodromo Enzo e Dino Ferrari","Italy",86.523
+1043,2020,21,"Autodromo Enzo e Dino Ferrari","Italy",75.484
+177,1999,21,"Autodromo Enzo e Dino Ferrari","Italy",88.547
+15,2009,22,"Suzuka Circuit","Japan",92.569
+1026,2019,22,"Suzuka Circuit","Japan",90.983
+69,2006,22,"Suzuka Circuit","Japan",92.676
+106,2004,22,"Suzuka Circuit","Japan",92.73
+173,2000,22,"Suzuka Circuit","Japan",99.189
+123,2003,22,"Suzuka Circuit","Japan",93.408
+1092,2022,22,"Suzuka Circuit","Japan",104.411
+222,1997,22,"Suzuka Circuit","Japan",98.942
+206,1998,22,"Suzuka Circuit","Japan",100.19
+157,2001,22,"Suzuka Circuit","Japan",96.45
+874,2012,22,"Suzuka Circuit","Japan",95.774
+914,2014,22,"Suzuka Circuit","Japan",111.6
+1005,2018,22,"Suzuka Circuit","Japan",92.318
+190,1999,22,"Suzuka Circuit","Japan",101.319
+895,2013,22,"Suzuka Circuit","Japan",94.587
+855,2011,22,"Suzuka Circuit","Japan",96.568
+88,2005,22,"Suzuka Circuit","Japan",91.54
+352,2010,22,"Suzuka Circuit","Japan",93.474
+964,2016,22,"Suzuka Circuit","Japan",95.118
+984,2017,22,"Suzuka Circuit","Japan",93.144
+140,2002,22,"Suzuka Circuit","Japan",96.125
+940,2015,22,"Suzuka Circuit","Japan",96.145
+239,1996,22,"Suzuka Circuit","Japan",104.043
+945,2015,24,"Yas Marina Circuit","UAE",104.517
+988,2017,24,"Yas Marina Circuit","UAE",100.65
+877,2012,24,"Yas Marina Circuit","UAE",103.964
+897,2013,24,"Yas Marina Circuit","UAE",103.434
+17,2009,24,"Yas Marina Circuit","UAE",100.279
+918,2014,24,"Yas Marina Circuit","UAE",104.496
+1096,2022,24,"Yas Marina Circuit","UAE",88.391
+968,2016,24,"Yas Marina Circuit","UAE",103.729
+1073,2021,24,"Yas Marina Circuit","UAE",86.103
+1047,2020,24,"Yas Marina Circuit","UAE",100.926
+858,2011,24,"Yas Marina Circuit","UAE",102.612
+355,2010,24,"Yas Marina Circuit","UAE",101.274
+1030,2019,24,"Yas Marina Circuit","UAE",99.283
+1009,2018,24,"Yas Marina Circuit","UAE",100.867
+226,1996,25,"Autódromo Juan y Oscar Gálvez","Argentina",89.413
+193,1998,25,"Autódromo Juan y Oscar Gálvez","Argentina",88.179
+209,1997,25,"Autódromo Juan y Oscar Gálvez","Argentina",87.981
+223,1997,26,"Circuito de Jerez","Spain",83.135
+238,1996,27,"Autódromo do Estoril","Portugal",82.873
+966,2016,32,"Autódromo Hermanos Rodríguez","Mexico",81.134
+1007,2018,32,"Autódromo Hermanos Rodríguez","Mexico",78.741
+1027,2019,32,"Autódromo Hermanos Rodríguez","Mexico",79.232
+986,2017,32,"Autódromo Hermanos Rodríguez","Mexico",78.785
+1094,2022,32,"Autódromo Hermanos Rodríguez","Mexico",80.153
+1070,2021,32,"Autódromo Hermanos Rodríguez","Mexico",77.774
+943,2015,32,"Autódromo Hermanos Rodríguez","Mexico",80.521
+1085,2022,34,"Circuit Paul Ricard","France",95.781
+1059,2021,34,"Circuit Paul Ricard","France",96.404
+1017,2019,34,"Circuit Paul Ricard","France",92.74
+996,2018,34,"Circuit Paul Ricard","France",94.225
+353,2010,35,"Korean International Circuit","Korea",110.257
+894,2013,35,"Korean International Circuit","Korea",101.38
+875,2012,35,"Korean International Circuit","Korea",102.037
+856,2011,35,"Korean International Circuit","Korea",99.605
+1088,2022,39,"Circuit Park Zandvoort","Netherlands",73.652
+1064,2021,39,"Circuit Park Zandvoort","Netherlands",71.097
+896,2013,68,"Buddh International Circuit","India",87.679
+857,2011,68,"Buddh International Circuit","India",87.249
+876,2012,68,"Buddh International Circuit","India",88.203
+1028,2019,69,"Circuit of the Americas","USA",96.169
+985,2017,69,"Circuit of the Americas","USA",97.766
+878,2012,69,"Circuit of the Americas","USA",99.347
+898,2013,69,"Circuit of the Americas","USA",99.856
+1006,2018,69,"Circuit of the Americas","USA",97.392
+1093,2022,69,"Circuit of the Americas","USA",98.788
+1069,2021,69,"Circuit of the Americas","USA",98.485
+916,2014,69,"Circuit of the Americas","USA",101.379
+965,2016,69,"Circuit of the Americas","USA",99.877
+942,2015,69,"Circuit of the Americas","USA",100.666
+933,2015,70,"Red Bull Ring","Austria",71.235
+1084,2022,70,"Red Bull Ring","Austria",67.275
+113,2003,70,"Red Bull Ring","Austria",68.337
+167,2000,70,"Red Bull Ring","Austria",71.783
+1032,2020,70,"Red Bull Ring","Austria",65.619
+183,1999,70,"Red Bull Ring","Austria",72.107
+977,2017,70,"Red Bull Ring","Austria",67.411
+997,2018,70,"Red Bull Ring","Austria",66.957
+1060,2021,70,"Red Bull Ring","Austria",66.2
+1018,2019,70,"Red Bull Ring","Austria",67.475
+200,1998,70,"Red Bull Ring","Austria",72.878
+220,1997,70,"Red Bull Ring","Austria",71.814
+1058,2021,70,"Red Bull Ring","Austria",67.058
+1107,2023,70,"Red Bull Ring","Austria",67.012
+1031,2020,70,"Red Bull Ring","Austria",67.475
+129,2002,70,"Red Bull Ring","Austria",69.298
+956,2016,70,"Red Bull Ring","Austria",68.411
+146,2001,70,"Red Bull Ring","Austria",70.843
+907,2014,70,"Red Bull Ring","Austria",72.142
+951,2016,71,"Sochi Autodrom","Russia",99.094
+1040,2020,71,"Sochi Autodrom","Russia",97.03
+972,2017,71,"Sochi Autodrom","Russia",96.844
+1004,2018,71,"Sochi Autodrom","Russia",95.861
+1025,2019,71,"Sochi Autodrom","Russia",95.761
+941,2015,71,"Sochi Autodrom","Russia",100.071
+915,2014,71,"Sochi Autodrom","Russia",100.896
+1066,2021,71,"Sochi Autodrom","Russia",97.423
+955,2016,73,"Baku City Circuit","Azerbaijan",106.485
+1057,2021,73,"Baku City Circuit","Azerbaijan",104.481
+1013,2019,73,"Baku City Circuit","Azerbaijan",103.009
+1101,2023,73,"Baku City Circuit","Azerbaijan",103.37
+976,2017,73,"Baku City Circuit","Azerbaijan",103.441
+992,2018,73,"Baku City Circuit","Azerbaijan",105.149
+1081,2022,73,"Baku City Circuit","Azerbaijan",106.046
+1054,2021,75,"Autódromo Internacional do Algarve","Portugal",79.849
+1042,2020,75,"Autódromo Internacional do Algarve","Portugal",78.75
+1039,2020,76,"Autodromo Internazionale del Mugello","Italy",78.833
+1099,2023,77,"Jeddah Corniche Circuit","Saudi Arabia",91.906
+1075,2022,77,"Jeddah Corniche Circuit","Saudi Arabia",91.634
+1072,2021,77,"Jeddah Corniche Circuit","Saudi Arabia",90.734
+1051,2021,78,"Losail International Circuit","Qatar",83.196
+1102,2023,79,"Miami International Autodrome","USA",89.708
+1078,2022,79,"Miami International Autodrome","USA",91.361
