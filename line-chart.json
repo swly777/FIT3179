@@ -26,7 +26,7 @@
   ],
   "transform": [
     {
-      "filter": "Circuit_selection == null || datum['circuit'] == Circuit_selection"
+      "filter": "Circuit_selection == null || datum['name'] == Circuit_selection"
     }
   ],
   "encoding": {
