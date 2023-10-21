@@ -1,106 +1,76 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
-  "height": 500,
+  "width": 800,
+  "height": 600,
   "data": {
     "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/line-chart.csv"
   },
-  "params": [
-    {
-      "name": "country_selection",
+  "selection": {
+    "countryFilter": {
+      "type": "multi",
+      "fields": ["country"],
+      "title": "Country Filter: ",
       "bind": {
         "input": "select",
         "options": [
           null,
           "Australia",
-          "Malaysia"
+          "Malaysia",
+          "USA",
+          "UK",
+          "China",
+          "Japan",
+          "Russia"
         ],
         "labels": [
           "Show All",
           "Australia",
-          "Malaysia"
+          "Malaysia",
+          "United States",
+          "UK",
+          "China",
+          "Japan",
+          "Russia"
         ],
-        "name": "country_selection: "
+        "name": "Country Filter:"
       }
-    }
-  ],
-  "transform": [
-    {
-      "filter": "country_selection == null || datum['country'] == country_selection"
-    }
-  ],
-  "encoding": {
-    "x": {
-      "field": "year",
-      "type": "ordinal",
-      "title": "Year"
-    },
-    "y": {
-      "field": "fastest_time",
-      "type": "quantitative",
-      "title": "Lap Times",
-      "axis": {"tickCount": 4}
     }
   },
-  "layer": [
-    {
-      "mark": {"type" : "line", "point" : "true"},
-      "encoding": {
-        "color": {
-          "field": "country",
-          "type": "nominal",
-          "title": "Country",
-          "legend": {"symbolType": "stroke", "symbolSize": 50}
-        }
-      }
-    },
-    {
-      "mark": "point",
-      "selection": {
-        "hover": {
-          "type": "single",
-          "on": "mouseover",
-          "nearest": true,
-          "empty": "none",
-          "fields": ["year", "fastest_time"],
-          "clear": "mouseout"
-        }
-      },
-      "encoding": {
-        "x": {"field": "year", "type": "ordinal"},
-        "y": {"field": "fastest_time", "type": "quantitative"},    
-        "color": {"field": "country", "type": "nominal"},
-        "opacity": {
-          "condition": {"selection": "hover", "value": 1},
-          "value": 0
-        },
-        "tooltip": [
-          {"field": "year", "type": "ordinal"},
-          {"field": "fastest_time", "type": "quantitative"},
-          {"field": "country", "type": "nominal"}
+  "mark": {"type": "line", "point": true},
+  "encoding": {
+    "x": {"field": "year", "type": "ordinal"},
+    "y": {"field": "fastest_time", "type": "quantitative"},
+    "color": {
+      "field": "country",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Australia",
+          "Malaysia",
+          "USA",
+          "UK",
+          "China",
+          "Japan",
+          "Russia"
+        ],
+        "range": [
+          "#0072b2",
+          "#FFCE00",
+          "#5733FF",
+          "#009e73",
+          "#dc267f",
+          "#fe6100"
         ]
       }
     },
-    {
-      "mark": "rule",
-      "encoding": {"x": {"datum": "2023"}, "color": {"value": "grey"}}
-    },
-    {
-      "mark": {
-        "type": "text",
-        "align": "right",
-        "baseline": "bottom",
-        "dy": 150,
-        "dx": -10,
-        "fontSize": 13,
-        "fontWeight": "lighter",
-        "color": "black"
-      },
-      "encoding": {
-        "x": {"datum": "2023"},
-        "y": {"value": 100},
-        "text": {"value": "TBA"}
-      }
+    "tooltip": [
+      {"field": "country", "type": "nominal"},
+      {"field": "year", "type": "ordinal"},
+      {"field": "fastest_time", "type": "quantitative"}
+    ],
+    "opacity": {
+      "condition": {"selection": "countryFilter", "value": 1},
+      "value": 0.2
     }
-  ]
+  }
 }
