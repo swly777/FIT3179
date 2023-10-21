@@ -8,7 +8,7 @@
   },
   "encoding": {
     "y": {"field": "name", "type": "nominal"},
-    "x": {"field": "fastest_time", "type": "quantitative", "scale": {"domain": [0, 100]}, "sort": {"field": "fastest_time", "order": "ascending"}
+    "x": {"field": "fastest_time", "type": "quantitative", "scale": {"domain": [0, 100]}, "sort": {"order": "ascending"}}
   },
   "layer": [{
     "mark": "bar"
