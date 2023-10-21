@@ -7,7 +7,7 @@
     "url": "https://raw.githubusercontent.com/swly777/FIT3179/main/bar-chart.csv"
   },
   "encoding": {
-    "y": {"field": "name", "type": "nominal"},
+    "y": {"field": "country", "type": "nominal"},
     "x": {"field": "fastest_time", "type": "quantitative", "scale": {"domain": [0, 100]}}
   },
   "layer": [{
